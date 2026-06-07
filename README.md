@@ -1,0 +1,2 @@
+# Edunexapro-
+SCHOOL MANAGEMENT SYSTEM 
